@@ -1,10 +1,17 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Jojo Maquiling]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [23 December, Sunday, 2018].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+
+Day 0
+
+Started the Accounting System front-end Vue-JS and Backend Django accounting system this is just a migration of my existing project accounting system
+
 
 ### R1D2
+Day 1
+
+
