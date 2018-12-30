@@ -8,4 +8,10 @@
 
 **Link to work:** [Online Accounting System](http://demo.online-acctg.com)
 
+### Day 2: December 30, 2018 
 
+**Today's Progress**: Created the / as the material js and not the demo one from vuejs. This is in preparation for the convertion of the whole theme. Worked also on the class of the "body" and found out the created, watch and method is necessary
+
+
+**Link to work:** [Online Accounting System] (http://demo.online-acctg.com)
+**github link ** [Online Accounting System Repos](https://github.com/jojomaquiling/oas)
