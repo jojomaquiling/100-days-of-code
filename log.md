@@ -15,3 +15,15 @@
 
 **Link to work:** [Online Accounting System] (http://demo.online-acctg.com)
 **github link ** [Online Accounting System Repos](https://github.com/jojomaquiling/oas)
+
+### Day 3: Jan 3, 2019
+
+Skipped few days due to holidays
+
+**Today's Progress**: added the /dashboard and the /login , completing the rest of the menu.
+
+**Link to work:** [Online Accounting System] (http://demo.online-acctg.com/#/dashboard)
+**github link ** [Online Accounting System Repos](https://github.com/jojomaquiling/oas)
+
+
+
