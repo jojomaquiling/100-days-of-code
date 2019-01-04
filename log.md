@@ -23,7 +23,22 @@ Skipped few days due to holidays
 **Today's Progress**: added the /dashboard and the /login , completing the rest of the menu.
 
 **Link to work:** [Online Accounting System] (http://demo.online-acctg.com/#/dashboard)
-**github link ** [Online Accounting System Repos](https://github.com/jojomaquiling/oas)
+**github link** [Online Accounting System Repos](https://github.com/jojomaquiling/oas)
+
+### Day 4: Jan 5, 2019
+
+**Todays's Progress**
+
+Organized the Menu,
+Adding the login scheme on django rest api framework
+Adding a scheme where it forces to go to login whenever the rest-api token is absent
+
+
+
+**Link to work:** [Online Accounting System] (http://demo.online-acctg.com/#/dashboard)
+**github link** [Online Accounting System Repos](https://github.com/jojomaquiling/oas)
+
+
 
 
 
